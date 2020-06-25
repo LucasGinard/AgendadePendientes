@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="Tareas">Todos mis pendientes</string>
+    <string name="Nuevo">Agregar nueva tarea</string>
+    <string name="todas">Todos mis pendientes</string>
+    <string name="fechalimite">Fecha limite</string>
+
+</resources>
