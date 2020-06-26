@@ -6,20 +6,20 @@ Con Java
   
  ![alt text](https://github.com/LucasGinard/AgendadePendientes/blob/master/menu.JPG) 
 
-  Agregar una tarea
+  Agregar una Pendiente
   
  ![alt text](https://github.com/LucasGinard/AgendadePendientes/blob/master/agregar.JPG) 
  
-   Listas de tareas
+   Listas de Pendientes
   
  ![alt text](https://github.com/LucasGinard/AgendadePendientes/blob/master/listacompleta.JPG) 
  
  
-   Descripcion del Pendiente
+   Descripcion de un Pendiente
   
  ![alt text](https://github.com/LucasGinard/AgendadePendientes/blob/master/descripcion.JPG) 
  
-   Editar del Pendiente
+   Editar un Pendiente
   
  ![alt text](https://github.com/LucasGinard/AgendadePendientes/blob/master/editar.JPG) 
  
